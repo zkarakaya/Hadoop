@@ -1,7 +1,6 @@
 # Installing Hadoop 2.7.3 on Ubuntu 14.04 or Ubuntu 16.04
-> Following commansd are to be executed within a terminal session. If you have installed Ubuntu Desktop, then you can create 
+> Following commands are to be executed within a terminal session. If you have installed Ubuntu Desktop, then you can create 
 a terminal session by ``Ctrl+Alt+T``. If you have installed Ubuntu Server, then by default you will be using a black shell screen. 
-Each line in the box is a seperate shell command, and you must execute them one by one.
 
 ### Java is needed
 If not installed yet, I advise you use Oracle Java 8. To install Oracle Java on your computer execute the following codes;
